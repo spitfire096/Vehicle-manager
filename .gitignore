@@ -1,0 +1,39 @@
+# Eclipse specific files
+.metadata/
+.settings/
+.classpath
+.project
+*.launch
+
+# Compiled class files and build directories
+bin/
+build/
+target/
+
+# Generated files
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# IntelliJ IDEA files (in case someone opens it there)
+.idea/
+*.iml
+out/
+
+# Module-info (optional - you can keep it if you want, but often ignored)
+# module-info.java   ← Uncomment this line only if you want to ignore it
+
+# Ignore the doc folder if you generate Javadoc locally (optional)
+doc/
