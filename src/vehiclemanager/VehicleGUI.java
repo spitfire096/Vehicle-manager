@@ -2,8 +2,6 @@ package vehiclemanager;
 
 /**
  * Main GUI class for Vehicle Manager using Swing
- * CST 8284 26W Lab 6
- * 
  * @author Oladimeji
  * @version 1.0
  * @description Swing-based GUI to add vehicles (Car, Truck, Motorcycle) 
